@@ -6,5 +6,5 @@ https://immersive-collective.org/projects/more-shaders/terrains/index-faster.htm
 
 
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/ZhglR7whIqY/mq1.webp?sqp=CKy927sG-oaymwEmCMACELQB8quKqQMa8AEB-AGqCYAC0AWKAgwIABABGEQgTihlMA8=&rs=AOn4CLARBuoMX1IdNMpBb-f_hkouaw6ySw)]([https://youtu.be/YOUTUBE_VIDEO_ID](https://youtu.be/ZhglR7whIqY?feature=shared))
+[![Watch the video](https://img.youtube.com/vi/ZhglR7whIqY/hqdefault.jpg)](https://youtu.be/ZhglR7whIqY)
 
